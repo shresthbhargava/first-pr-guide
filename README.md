@@ -1,9 +1,9 @@
-# 🚀 first-pr-guide
+# first-pr-guide
 
 > **A practical, community-maintained guide to making your first open-source contribution.**
 > From zero to merged PR — no fluff, just real steps.
 
-[![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/first-pr-guide?color=brightgreen)](https://github.com/shresthbhargava/first-pr-guide/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/shresthbhargava/first-pr-guide?color=brightgreen)](https://github.com/shresthbhargava/first-pr-guide/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/shresthbhargava/first-pr-guide?style=social)](https://github.com/shresthbhargava/first-pr-guide/stargazers)
